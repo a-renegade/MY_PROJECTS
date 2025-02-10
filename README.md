@@ -1,2 +1,2 @@
 # MY_PROJECTS
-This repo have my personal projects
+This repo have my personal project
